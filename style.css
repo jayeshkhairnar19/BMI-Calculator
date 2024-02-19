@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black !important;
+    color: white;
+}
+
+
+.card {
+    height: 575px; /* Adjust the height as needed */
+    border: 1px solid #ccc;
+    margin-top: -85px  
+    /* width: 200px;   */
+}
+
+.card-body{
+    background-color: aquamarine;
+   
+}
+
+#height{
+    font-weight: bolder;
+}
+
+#weight{
+    font-weight: bolder;
+}
+
+#msg{
+    font-weight: bolder;
+}
+
+#conditions{
+    font-weight: bolder;
+}
